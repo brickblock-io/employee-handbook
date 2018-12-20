@@ -17,7 +17,7 @@
 Most of us start working around 10 am and leave somewhere between 6-8pm.
 Some of us are early birds, begin at 8 am already and go home a bit earlier.
 You have some freedom here to design your schedule. Just let your team know
-about your schedule and make sure they're ok with it.
+about your plan and make sure they're ok with it.
 
 * Need a little more sleep because you were burning the midnight oil?
    No big deal, just let your team know what’s up.
@@ -35,14 +35,14 @@ about your schedule and make sure they're ok with it.
 To allow your team to plan for your absence, please file your holiday requests **at least
 four weeks before you’re going on vacation**. Now, if there’s a spontaneous thing happening
 and you want to take a Friday off on short notice, then as long as your team’s goals are
-not at risk, that's usually ok, too. Just try to give a heads up in due time and we'll
+not at risk, that's usually ok, too. Just try to give a heads up in due time, and we'll
 figure it out together.
 
 1. Log in to [Appogee Leave](https://leave.appogeehr.com/login) with your Google account
 1. Make a new leave request
 1. Your manager will now automatically get an email with your leave request
-1. It never hurts to also informally give as heads up to your team and/or manager
-1. After receiving approval, your absence will be automatically entered into our shared vacations
+1. It never hurts to also informally give a heads up to your team
+1. After receiving approval, your absence will automatically show up in our shared vacations
    calendar, so your team is aware
 1. Happy Holiday 🏖😎☀️
 
@@ -54,7 +54,7 @@ solution so far.
 
 1. Email auto-responder: [Appogee Leave](https://leave.appogeehr.com)
    will automatically create one for you 🤙
-2. Slack status: Set your slack status to *“on holiday 🌴”* or something
+2. Slack: Set your Slack status to *“on holiday 🌴”* or something
 
 ## When you’re sick 🤒
 
@@ -70,8 +70,8 @@ it might take so we can plan. As much as we'd like to do this purely on a trust
 basis, [for insurance reasons](https://www.juraforum.de/lexikon/lohnfortzahlungsversicherung)
 we require a "sick certificate" ("Krankschreibung" in German) from your doctor
 **from the 4th day of your absence**. So if you're sick Monday-Wednesday,
-it's all good. If you're also sick on Thursday, we unfortunately need the paperwork
-to hand in to our insurance.
+it's all good. If you're also sick on Thursday, we need the paperwork
+for our insurance.
 
 ## The Tools We Use 🛠
 
@@ -79,9 +79,8 @@ to hand in to our insurance.
 * We use **Trello** to organize work.
 * We use **Slack** for team messaging. To avoid Slack being too big of a distraction,
    we recommend turning off all notifications, except direct messages and mentions.
-   It’s also fine to turn off slack for a few hours if you need some focus time.
-   Just make sure your team knows what’s up and when you’ll be back so they can
-   plan around your schedule.
+   It’s also okay to turn off Slack for a few hours if you need some focus time.
+   Just make sure your team knows what’s up and when you’ll be back so they can plan around your schedule.
 * We use **Zoom** for video chats.
 * We use **GitLab** for managing our code.
 
@@ -93,7 +92,7 @@ utmost care when it comes to security.
 
 ### Passwords
 
-* Use 1password to manage all Brickblock-related passwords. No exceptions.
+* Use 1password to manage all Brickblock-related passwords — no exceptions.
 * ☝️ Don’t re-use a password. Always create a new one.
 * Use of 1password’s password generator for creating safe passwords.
 
@@ -110,8 +109,7 @@ utmost care when it comes to security.
 * Only open email attachments when you’re 120% sure the sender is legit.
    Special care needs to be taken around `*.zip` or `*.exe`, `*.dmg`, or `*.vbs`
    files — they’re almost always malware or viruses
-* When you receive a “strange” email from a co-worker, make sure to ask the
-   person on Slack before following any links or opening attachments.
+* When you receive a “strange” email from a co-worker, make sure to ask the person on Slack before following any links or opening attachments.
    Their account could be compromised, or the “FROM” field in the email is fake
 * We've had cases where scammers where pretending to be our CEO to extract
    sensitive information from employees or wire money to scammer's accounts.
@@ -164,19 +162,19 @@ Two options:
 
 1. Pay by yourself and reimburse later 💵
 
-   If it's urgent, or some black friday deal is running out:
-   You can always pay with your own credit card and we'll reimburse you later.
+   If it's urgent, or some Black Friday deal is running out:
+   You can always pay with your personal credit card, and we'll reimburse you later.
 
 1. Pay with a company credit card 💳
 
    Reach out to our finance team with the written approval from your manager
    and ask them to pay it for you. If you ask nicely, they'll usually do it
-   on the same day 🙏
+   on the same day 🙏.
 
 #### Send us the invoice
 
-It's very important that you always get an invoice in the name of the company.
-Otherwise we won't be able to reimburse you!
+It's critical that you always get an invoice in the name of the company.
+Otherwise, we won't be able to reimburse you!
 
 The correct billing address is:
 
@@ -189,18 +187,18 @@ The correct billing address is:
 
 Your physical and mental health are very important to us.
 
-We will pay up to €44 per month towards your personal fitness expenses. That can be your 
+We will pay up to €44 per month towards your fitness expenses. That can be your 
 monthly gym membership or yoga studio fee, a [headspace](https://www.headspace.com)
 subscription, or the race registration fee for that half marathon you're training for.
 
 Why exactly €44? Because it's the
 [legal limit in Germany for tax-free bonuses](https://www.edenred.de/steuerfreier-sachbezug/).
-Every Euro above would incure taxes and social security costs for both us and you.
+Every Euro above would incur taxes and social security costs for both you and us.
 
 ### How to reimburse
 
 Every employee receives a [Givve MasterCard](https://www.givve.com) for each employee. You will get 44€ topped up on your card every month and will be able to spend it towards all
-physical or mental health related expenses. It works just like a normal Mastercard, except that you can’t get money out from the ATM. 
+physical or mental health-related expenses. It works just like a regular Mastercard, except that you can’t get money out from the ATM. 
 
 1. Get written approval from your manager for your expense
    (informal slack approval is enough)
@@ -231,8 +229,8 @@ networking events), that’s OK of course.
 ### Getting Approval
 
 Expenses need to be approved by your manager. For small things (office supplies,
-cables, etc.), a simple slack message asking for approval is sufficient.
-For larger expenses (new laptop, expensive conference ticket, etc.), please
+cables, USB sticks...), a simple slack message asking for approval is sufficient.
+For more substantial expenses (new laptop, expensive conference ticket, etc.), please
 email your manager.
 
 ### Receipts / Invoices
@@ -247,17 +245,17 @@ as the recipient:
 
 ### Reimbursement
 
-We reimburse expenses quarterly. Please make sure to send all expenses and
+We reimburse expenses quarterly. Please make sure to send all expense reports and
 invoices to our finance team (cc your manager) before the end
 of the quarter. If you had a large expense and can’t wait until the end
 of the quarter to be reimbursed: talk to us.
 
 ### Company Credit cards
 
-We have [Pleo credit cards](https://www.pleo.io) for senior level employees.
+We have [Pleo credit cards](https://www.pleo.io) for senior-level employees.
 Not everyone will get one but if you do, here’s how it works:
 
-- You have one virtual and one plastic card, both are Prepaid MasterCards.
+- You have one virtual and one plastic card; both are Prepaid MasterCards.
 - With the Pleo app for your smartphone, you'll get real-time purchase notifications
    and you can scan receipts on-the-go.
 
@@ -272,10 +270,10 @@ works.
 
 #### Limits
 
-Management will set the limits per employee. It completely depends on your role.
-If you're a Business Developer that's travelling a lot, then you'll need a higher limit
+Management will set the limits per employee. It entirely depends on your role.
+If you're a Business Developer that's traveling a lot, then you'll need a higher limit
 than somebody that spends most of their time in the office or working remotely.
-Just talk to your maanger to figure out the right limit for you.
+Just talk to your manager to figure out the right limit for you.
 
 #### Pleo Expense Policy
 
@@ -295,7 +293,7 @@ WebStorm, etc.
 
 - Meals with business partners or team meals when approved or paid for by the respective team
    lead.
-    - Please always write down *with whom* you were dining and what *the reason* for it was.
+    - Please always write down *with who* you were dining and what *the reason* for it was.
        We need this information for our tax advisor.
 - Business trips
     - Flights to and from the destination, train tickets, bus tickets or taxi 
@@ -306,7 +304,7 @@ WebStorm, etc.
           to calculate and pay your "[Verpflegungspauschale](https://de.wikipedia.org/wiki/Verpflegungsmehraufwand)"
 - Transportation to and from business meetings
     - Please take public transport if available and reasonably fast. Taxi or
-	   Ride-sharing in all other cases is ok as well.
+       Ride-sharing in all other cases is ok as well.
 
 ## Need Hardware? 🖥
 
