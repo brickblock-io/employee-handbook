@@ -1,0 +1,10 @@
+{
+  "name": "employee-handbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Philip Paetz <philip.paetz@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.13.0"
+  }
+}
