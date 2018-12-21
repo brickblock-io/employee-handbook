@@ -197,7 +197,7 @@ Every Euro above would incur taxes and social security costs for both you and us
 
 ### How to reimburse
 
-Every employee receives a [Givve MasterCard](https://www.givve.com) for each employee. You will get 44€ topped up on your card every month and will be able to spend it towards all
+Every employee receives a [Givve MasterCard](https://www.givve.com). You will get 44€ topped up on your card every month and will be able to spend it towards all
 physical or mental health-related expenses. It works just like a regular Mastercard, except that you can’t get money out from the ATM. 
 
 1. Get written approval from your manager for your expense
