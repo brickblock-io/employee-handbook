@@ -208,7 +208,7 @@ physical or mental health-related expenses. It works just like a regular Masterc
 
 ## Expenses 💵
 
-Rule of thumb up front: We trust you to spend money wisely. It’s simple: Are you acting
+We trust you to spend money wisely. It’s simple: Are you acting
 in the best interest of the company? If yes, then it’s pretty likely that you’ll get
 your expenses approved.
 
@@ -217,7 +217,8 @@ buy the direct connection as long as it's reasonably priced.
 
 If you’re attending a conference on behalf of Brickblock and want to invite some
 business partners, sure, Brickblock will buy your meals.
-Just don’t buy caviar and champagne for everyone ❌🍾❌.
+Just don’t buy caviar and champagne for everyone ❌🍾❌. **Due to German tax
+legislation, we can not reimburse your private meals, only meals with business partners.**
 
 Try to limit conference travel to once a year, and if you want to extend your hotel
 stay for personal reasons: That’s cool, but please pay the extra nights yourself
