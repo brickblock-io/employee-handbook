@@ -2,6 +2,7 @@
 
 ## Table of Content
 
+* [💼 Organisation Chart ](#organisation-chart-)
 * [🕙 Working Hours](#working-hours-)
 * [🌴 Holidays](#holidays-)
 * [🤒 When you’re sick](#when-youre-sick-)
@@ -12,9 +13,13 @@
 * [💵 Expenses](#expenses-)
 * [🖥 Need Hardware?](#need-hardware-)
 
+## Organisation Chart 💼
+
+A chart showing who works here at Brickblock can be found [here](https://docs.google.com/presentation/d/14YYqwGljMPvGCJEUfREsCkl4CynN43Orr6jBONFZz5A)
+
 ## Working Hours 🕙
 
-Most of us start working around 10 am and leave somewhere between 6-8pm.
+We usually work from 10am and leave somewhere between 6-8pm.
 Some of us are early birds, begin at 8 am already and go home a bit earlier.
 You have some freedom here to design your schedule. Just let your team know
 about your plan and make sure they're ok with it.
