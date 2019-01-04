@@ -12,6 +12,7 @@
 * [🏃‍♀️ Fitness](#fitness-)
 * [💵 Expenses](#expenses-)
 * [🖥 Need Hardware?](#need-hardware-)
+* [📧 Email Signature](#email-signature-)
 
 ## Organisation Chart 💼
 
