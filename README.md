@@ -339,6 +339,21 @@ Need the extra RAM because for developing, I need to run many processes in paral
 (e.g., Frontend Server, Backend Server, Database, Ethereum Node, Browser in Development
 Mode)
 
+## Email Signature 📧
+
+Here's how to use our company email signature using Gmail:
+
+1. Download the [Email signature file](./email-signature.html) file and open it in a browser window
+1. Select and copy everything (`command + A, command + C` when you're on a Mac)
+1. Open your [Gmail settings](https://mail.google.com/mail/u/0/#settings/general) and paste it into the ‘Signature’ field
+1. Update the signature with your information (name, email, etc.)
+1. Above the signature there will be some space; this is where the Brickblock logo should be placed.
+1. Click your cursor on the gap and then click the ‘insert image’ icon above the email signature box. You can find the logo at: `Brickblock’s Google Drive —> Design —> 5. Assets —> Logos —> Email signature`
+1. Select `bb_logo_blue.png`
+1. If all looks good, scroll down to the very end of your Gmail settings and click `Save Changes`
+1. Try it out! Send an email to your private email address and check whether everything looks alright. If not, just reach out and we'll figure it out together.
+
+
 ---
 
 Thanks to Basecamp for [the inspiration](https://github.com/basecamp/handbook)
