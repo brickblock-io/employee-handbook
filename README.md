@@ -344,7 +344,7 @@ Mode)
 
 Here's how to use our company email signature using Gmail:
 
-1. Download the [Email signature file](./email-signature.html) file and open it in a browser window
+1. Download the [Email signature file](https://drive.google.com/file/d/1TlZ60G9LqSwvTpDguQK7cb6ocvOzURKB/view?usp=sharing) file and open it in a browser window
 1. Select and copy everything (`command + A, command + C` when you're on a Mac)
 1. Open your [Gmail settings](https://mail.google.com/mail/u/0/#settings/general) and paste it into the ‘Signature’ field
 1. Update the signature with your information (name, email, etc.)
