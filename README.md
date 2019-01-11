@@ -75,8 +75,8 @@ Health comes first. Focus on getting better. Just be transparent about how long
 it might take so we can plan. As much as we'd like to do this purely on a trust
 basis, [for insurance reasons](https://www.juraforum.de/lexikon/lohnfortzahlungsversicherung)
 we require a "sick certificate" ("Krankschreibung" in German) from your doctor
-**from the 4th day of your absence**. So if you're sick Monday-Wednesday,
-it's all good. If you're also sick on Thursday, we need the paperwork
+**from the 3rd day of your absence**. So if you're sick Monday and Tuesday,
+it's all good. If you're also sick on Wednesday, we need the paperwork
 for our insurance.
 
 ## The Tools We Use 🛠
