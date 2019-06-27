@@ -98,9 +98,10 @@ utmost care when it comes to security.
 
 ### Passwords
 
-* Use 1password to manage all Brickblock-related passwords — no exceptions.
+* Use 1Password to manage all Brickblock-related passwords — no exceptions.
 * ☝️ Don’t re-use a password. Always create a new one.
 * Use of 1password’s password generator for creating safe passwords.
+* Read the article ["It’s a Huge Mistake to Memorize Your Passwords"](https://onezero.medium.com/its-a-huge-mistake-to-memorize-your-passwords-2bdc1fdd64c2)
 
 ### 2-Factor-Authentication
 
