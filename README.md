@@ -64,6 +64,21 @@ please discuss with your manager. We will always try to find a fair solution.
 1. Email auto-responder: [Set up an auto-responder in your Gmail settings.](https://support.google.com/mail/answer/25922?hl=en&authuser=0)
 1. Slack: [Set your status to “on holiday 🌴” or similar](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability)
 
+### 🎅 Festive Season
+
+Many people take a few days off over Christmas. But not everyone is Christian or believes in Santa Claus
+and we don’t want to dictate how to use your holiday budget. The only mandatory holiday is half a day for
+the 24th and half a day for the 31st. On all other days **between December 24th-31st you are free to either**:
+
+1. Take time off
+1. Or come into the office
+   * If you’d like to work in the office between December 24st-31th, you can open and close it with your key as usual
+1. Or work remotely
+   * If you’re not in Berlin between the 24th and 31st, spending time with your family, but you know that you will
+    definitely need a break from them 🙈, then you’re free to work remotely from the comfort of your home.
+
+Overall that means **you only have to take one day off** instead of four, as we used to do in earlier years.
+
 ## When you’re sick 🤒
 
 ### When you’re a little sick-ish
