@@ -227,7 +227,7 @@ The correct billing address is:
 
 Your physical and mental health are very important to us.
 
-We will pay up to €44 per month towards your fitness expenses. That can be your 
+We will pay up to €44 per month towards your fitness expenses. That can be your
 monthly gym membership or yoga studio fee, a [headspace](https://www.headspace.com)
 subscription, or the race registration fee for that half marathon you're training for.
 
@@ -237,8 +237,10 @@ Every Euro above would incur taxes and social security costs for both you and us
 
 ### How to reimburse
 
-Every employee receives a [Givve MasterCard](https://www.givve.com). You will get 44€ topped up on your card every month and will be able to spend it towards all
-physical or mental health-related expenses. It works just like a regular Mastercard, except that you can’t get money out from the ATM. 
+Every employee receives a [Givve MasterCard](https://www.givve.com). You will get 44€ topped
+up on your card every month and will be able to spend it towards all physical or mental
+health-related expenses. It works just like a regular Mastercard, except that you can’t
+get money out from the ATM.
 
 1. Get written approval from your manager for your expense
    (informal slack approval is enough)
@@ -296,8 +298,8 @@ of the quarter to be reimbursed: talk to us.
 We have [Pleo credit cards](https://www.pleo.io) for senior-level employees.
 Not everyone will get one but if you do, here’s how it works:
 
-- You have one virtual and one plastic card; both are Prepaid MasterCards.
-- With the Pleo app for your smartphone, you'll get real-time purchase notifications
+* You have one virtual and one plastic card; both are Prepaid MasterCards.
+* With the Pleo app for your smartphone, you'll get real-time purchase notifications
    and you can scan receipts on-the-go.
 
 #### What you have to do:
@@ -332,20 +334,18 @@ WebStorm, etc.
 
 ##### Plastic Card
 
-- Meals with business partners or team meals when approved or paid for by the respective team
-   lead.
-    - Please always write down *with who* you were dining and what *the reason* for it was.
-       We need this information for our tax advisor.
-- Business trips
-    - Flights to and from the destination, train tickets, bus tickets or taxi 
-      receipts at the destination
-    - Hotel or Airbnb at the destination
-        - Please try to book it _without_ breakfast. If there's breakfast listed on
-          the invoice, [it will get more complicated](https://www.reisekosten.de/kuerzung-der-verpflegungspauschale-regel-und-sonderfaelle/)
-          to calculate and pay your "[Verpflegungspauschale](https://de.wikipedia.org/wiki/Verpflegungsmehraufwand)"
-- Transportation to and from business meetings
-    - Please take public transport if available and reasonably fast. Taxi or
-       Ride-sharing in all other cases is ok as well.
+* Meals with business partners or team meals when approved or paid for by the respective team lead.
+  * Please always write down *with who* you were dining and what *the reason* for it was.
+   We need this information for our tax advisor.
+* Business trips
+  * Flights to and from the destination, train tickets, bus tickets or taxi receipts at the destination
+  * Hotel or Airbnb at the destination
+    * Please try to book it _without_ breakfast. If there's breakfast listed on
+     the invoice, [it will get more complicated](https://www.reisekosten.de/kuerzung-der-verpflegungspauschale-regel-und-sonderfaelle/)
+     to calculate and pay your "[Verpflegungspauschale](https://de.wikipedia.org/wiki/Verpflegungsmehraufwand)"
+* Transportation to and from business meetings
+  * Please take public transport if available and reasonably fast. Taxi or
+   Ride-sharing in all other cases is ok as well.
 
 ## Need Hardware? 🖥
 
@@ -383,7 +383,8 @@ Here's how to use our company email signature using Gmail:
 1. Open your [Gmail settings](https://mail.google.com/mail/u/0/#settings/general) and paste it into the ‘Signature’ field
 1. Update the signature with your information (name, email, etc.)
 1. Above the signature there will be some space; this is where the Brickblock logo should be placed.
-1. Click your cursor on the gap and then click the ‘insert image’ icon above the email signature box. You can find the logo at: `Brickblock’s Google Drive —> Design —> 5. Assets —> Logos —> Email signature`
+1. Click your cursor on the gap and then click the ‘insert image’ icon above the email signature box.
+   You can find the logo at: `Brickblock’s Google Drive —> Design —> 5. Assets —> Logos —> Email signature`
 1. Select `bb_logo_blue.png`
 1. If all looks good, scroll down to the very end of your Gmail settings and click `Save Changes`
 1. Try it out! Send an email to your private email address and check whether everything looks alright. If not, just reach out and we'll figure it out together.
