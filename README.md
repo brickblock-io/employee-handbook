@@ -22,18 +22,21 @@ Who works where at Brickblock is listed in our [organisation chart](https://docs
 
 ## Working Hours 🕙
 
-We usually work from 10am and leave somewhere between 6-8pm.
-Some of us are early birds, begin at 8 am already and go home a bit earlier.
-You have some freedom here to design your schedule. Just let your team know
-about your plan and make sure they're ok with it.
+
+Most of us start working around 10am and leave somewhere between 6-8pm.
+Some of us are early birds, begin at 8am already and go home a bit earlier.
+You have some freedom here to design your schedule.
+
+The most important thing is that the work gets done so:
+**Let your team know about your schedule** and make sure they're ok with it.
 
 * Need a little more sleep because you were burning the midnight oil?
    No big deal, just let your team know what’s up.
 * Have a doctor’s appointment in the afternoon?
    No big deal, just let your team know what’s up.
 * Need to leave early because you’re going to a concert?
-   No big deal, just let your team know what's up and catch up on your working
-   hours the previous or next day.
+   No big deal, just let your team know what's up and catch up on your work
+   the previous or next day.
 * You get the idea 🙂
 
 ## Holidays 🌴
