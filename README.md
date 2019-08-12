@@ -2,8 +2,9 @@
 
 ## Table of Content
 
-* [💼 Organisation Chart ](#organisation-chart-)
+* [💼 Organisation Chart](#organisation-chart-)
 * [🕙 Working Hours](#working-hours-)
+* [🛋 Remote Work](#remote-work-)
 * [🌴 Holidays](#holidays-)
 * [🤒 When you’re sick](#when-youre-sick-)
 * [🛠 The Tools We Use](#the-tools-we-use-)
@@ -35,6 +36,21 @@ The most important thing is that the work gets done so:
    No big deal, just let your team know what's up and catch up on your work
    the previous or next day.
 * You get the idea 🙂
+
+## Remote Work 🛋
+
+### Deep Work Days
+
+On Mondays, Wednesdays, and Fridays we all work from the office.
+
+Tuesdays and Thursdays are our ["Deep Work"](http://www.calnewport.com/books/deep-work/) days
+on which you're free to work from home, or a coffee shop or coworking space if you prefer.
+
+### Remote Week
+
+On top of our two weekly deep work days, we additionally allow every engineer 1 full week per year
+to work from wherever they want. For example you can extend your holiday stay by 1 week and work
+from the pool, or go home early for Christmas and work from the comfort of your parents' fireplace.
 
 ## Holidays 🌴
 
