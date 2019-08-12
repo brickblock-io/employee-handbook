@@ -16,13 +16,9 @@
 
 ## Organisation Chart 💼
 
----
-
 Who works where at Brickblock is listed in our [organisation chart](https://docs.google.com/presentation/d/14YYqwGljMPvGCJEUfREsCkl4CynN43Orr6jBONFZz5A)
 
 ## Working Hours 🕙
-
----
 
 Most of us start working around 10am and leave somewhere between 6-8pm.
 Some of us are early birds, begin at 8am already and go home a bit earlier.
@@ -41,8 +37,6 @@ The most important thing is that the work gets done so:
 * You get the idea 🙂
 
 ## Holidays 🌴
-
----
 
 ### Scheduling your holidays
 
@@ -100,8 +94,6 @@ If you are entitled to more days but don’t know how to get them, don’t worry
 
 ## When you’re sick 🤒
 
----
-
 ### When you’re a little sick-ish
 
 When you’ve got a cold, but still want to work: Please don’t come into the office
@@ -119,8 +111,6 @@ for our insurance.
 
 ## The Tools We Use 🛠
 
----
-
 * We use **GSuite** for email, calendars, drive, docs, spreadsheets, and slides.
 * We use **Trello** to organize work.
 * We use **Slack** for team messaging. To avoid Slack being too big of a distraction,
@@ -131,8 +121,6 @@ for our insurance.
 * We use **GitLab** for managing our code.
 
 ## Security 🔒
-
----
 
 As a financial services provider, **security is extremely important** to us. We're
 handling millions of Dollars worth of transactions, so you need to act with
@@ -164,8 +152,6 @@ utmost care when it comes to security.
    sensitive information from employees or wire money to scammer's accounts.
 
 ## Growth 💪
-
----
 
 Your personal and professional growth is very important to us!
 
@@ -236,8 +222,6 @@ The correct billing address is:
 
 ## Fitness 🏃‍♀️
 
----
-
 Your physical and mental health are very important to us.
 
 We will pay up to €44 per month towards your fitness expenses. That can be your
@@ -262,8 +246,6 @@ get money out from the ATM.
    approval from your manager
 
 ## Expenses 💵
-
----
 
 We trust you to spend money wisely. It’s simple: Are you acting
 in the best interest of the company? If yes, then it’s pretty likely that you’ll get
@@ -364,8 +346,6 @@ WebStorm, etc.
 
 ## Need Hardware? 🖥
 
----
-
 If you need specific hardware for your work and it isn’t ridiculously expensive,
 we’ll always try to make it happen. Please write an email to your manager that
 answers the following questions:
@@ -392,8 +372,6 @@ Need the extra RAM because for developing, I need to run many processes in paral
 Mode)
 
 ## Email Signature 📧
-
----
 
 Here's how to use our company email signature using Gmail:
 
