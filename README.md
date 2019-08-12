@@ -49,23 +49,20 @@ and you want to take a Friday off on short notice, then as long as your team’s
 not at risk, that's usually ok, too. Just try to give a heads up in due time, and we'll
 figure it out together.
 
-1. Log in to [Appogee Leave](https://leave.appogeehr.com/login) with your Google account
-1. Make a new leave request
-1. Your manager will now automatically get an email with your leave request
+1. Log in to [Personio](https://brickblock.personio.de/) with your Google account
+1. Make a new absence request
+1. Your manager will now automatically get an email with your absence request
 1. It never hurts to also informally give a heads up to your team
-1. After receiving approval, your absence will automatically show up in our shared vacations
-   calendar, so your team is aware
+1. After receiving approval, your absence will automatically show up in our shared vacations calendar, so your team is aware
 1. Happy Holiday 🏖😎☀️
 
 P.S. If you put in a lot of overtime and feel like you deserve an extra vacation day,
-please discuss with your manager. We'd like to think that we've always found a fair
-solution so far.
+please discuss with your manager. We will always try to find a fair solution.
 
 ### During your holidays
 
-1. Email auto-responder: [Appogee Leave](https://leave.appogeehr.com)
-   will automatically create one for you 🤙
-2. Slack: Set your Slack status to *“on holiday 🌴”* or something
+1. Email auto-responder: [Set up an auto-responder in your Gmail settings.](https://support.google.com/mail/answer/25922?hl=en&authuser=0)
+1. Slack: [Set your status to “on holiday 🌴” or similar](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability)
 
 ## When you’re sick 🤒
 
