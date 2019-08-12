@@ -79,6 +79,22 @@ the 24th and half a day for the 31st. On all other days **between December 24th-
 
 Overall that means **you only have to take one day off** instead of four, as we used to do in earlier years.
 
+### 📈 Holiday vesting
+
+The longer you stay at Brickblock, the more holidays you earn:
+
+* Every full time employee starts at 23 days per year.
+* For each full year of tenure, you earn additional days for your next year.
+  * After one full year: 1 extra day (24 total)
+  * After two full years: 2 extra days (26 total)
+  * After three full years: 2 extra days  (28 total)
+  * After four full years: 2 extra days (30 total)
+* The maximum amount of holidays is 30 days.
+* Extra holidays vest after completion of a full year, there is no partial vesting (e.g. no additional 0.5 days after 6 months)
+* Vesting starts at 1st day at Brickblock, regardless of bitsandcoins, Brickblock Ltd, or Brickblock DS GmbH
+
+If you are entitled to more days but don’t know how to get them, don’t worry. The changes will be automatically added to Personio.
+
 ## When you’re sick 🤒
 
 ### When you’re a little sick-ish
