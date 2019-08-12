@@ -389,7 +389,6 @@ Here's how to use our company email signature using Gmail:
 1. If all looks good, scroll down to the very end of your Gmail settings and click `Save Changes`
 1. Try it out! Send an email to your private email address and check whether everything looks alright. If not, just reach out and we'll figure it out together.
 
-
 ---
 
-Thanks to Basecamp for [the inspiration](https://github.com/basecamp/handbook)
+Thanks to [Basecamp](https://basecamp.com/about) for [the inspiration](https://github.com/basecamp/handbook)
