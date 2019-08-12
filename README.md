@@ -111,14 +111,17 @@ for our insurance.
 
 ## The Tools We Use 🛠
 
-* We use **GSuite** for email, calendars, drive, docs, spreadsheets, and slides.
-* We use **Trello** to organize work.
-* We use **Slack** for team messaging. To avoid Slack being too big of a distraction,
+* We use [**1Password**](https://1password.com) for managing our passwords and secrets.
+* We use [**GitLab**](https://about.gitlab.com) for managing our code.
+* We use [**GSuite**](https://gsuite.google.com) for email, calendars, spreadsheets, slides, and file management.
+* We use [**Notion**](https://www.notion.so) for documentation, meeting notes, and as an internal knowledge base.
+* We use [**Postman**](https://www.getpostman.com) for developing and testing our APIs.
+* We use [**Slack**](https://slackhq.com) for team messaging. To avoid Slack being too big of a distraction,
    we recommend turning off all notifications, except direct messages and mentions.
    It’s also okay to turn off Slack for a few hours if you need some focus time.
    Just make sure your team knows what’s up and when you’ll be back so they can plan around your schedule.
-* We use **Zoom** for video chats.
-* We use **GitLab** for managing our code.
+* We use [**Trello**](https://trello.com) to organize our work.
+* We use [**Zoom**](https://zoom.us) for video chats.
 
 ## Security 🔒
 
