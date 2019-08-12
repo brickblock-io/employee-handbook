@@ -16,7 +16,9 @@
 
 ## Organisation Chart 💼
 
-A chart showing who works here at Brickblock can be found [here](https://docs.google.com/presentation/d/14YYqwGljMPvGCJEUfREsCkl4CynN43Orr6jBONFZz5A)
+---
+
+Who works where at Brickblock is listed in our [organisation chart](https://docs.google.com/presentation/d/14YYqwGljMPvGCJEUfREsCkl4CynN43Orr6jBONFZz5A)
 
 ## Working Hours 🕙
 
