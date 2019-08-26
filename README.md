@@ -108,6 +108,32 @@ The longer you stay at Brickblock, the more holidays you earn:
 
 If you are entitled to more days but don’t know how to get them, don’t worry. The changes will be automatically added to Personio.
 
+### Parental Leave 👼
+
+You’re expecting a child? That’s great! As a company, we’re trying to provide you with as much flexibility as we can to organize your work around your new
+responsibilities for your newest family member. There’s just one very important thing you need to do: Let us know early enough so we can plan a potential
+absence together and temporarily transition your responsibilities to other team members.
+
+#### Notice Time
+
+Please let us know at least 8 weeks before the estimated delivery date so we can figure out a plan together.
+
+#### Legal Parental Leave
+
+If you’re planning to take extended time off as part of your [“Elternzeit”](https://de.wikipedia.org/wiki/Elternzeit) please let us know as soon as you can
+so we can plan around your absence and ensure a structured transfer of your responsibilities to your colleagues.
+
+#### Extra Holidays
+
+You’ll get two full extra days of vacation during the days of the birth.
+
+#### Remote Work After The Birth
+
+You probably need some time after the birth to integrate your new family member into your life and care for them. You’re of course free to go into [“Elternzeit”](https://de.wikipedia.org/wiki/Elternzeit)
+or use your holidays to take time off completely. However, if you’d like to keep working **we offer you the flexibility to work from home for up to 4 weeks post
+birth**. The only condition is that you agree on a schedule that works for you and your team and are able to come into the office on at least 1 day per week,
+if necessary.
+
 ## When you’re sick 🤒
 
 ### When you’re a little sick-ish
