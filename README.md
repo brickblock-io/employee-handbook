@@ -54,7 +54,7 @@ from the pool, or go home early for Christmas and work from the comfort of your 
 
 ## Holidays 🌴
 
-### Scheduling your holidays
+### Scheduling your holidays 📅
 
 To allow your team to plan for your absence, please file your holiday requests **at least
 four weeks before you’re going on vacation**. Now, if there’s a spontaneous thing happening
@@ -72,12 +72,12 @@ figure it out together.
 P.S. If you put in a lot of overtime and feel like you deserve an extra vacation day,
 please discuss with your manager. We will always try to find a fair solution.
 
-### During your holidays
+### During your holidays 🤖
 
 1. Email auto-responder: [Set up an auto-responder in your Gmail settings.](https://support.google.com/mail/answer/25922?hl=en&authuser=0)
 1. Slack: [Set your status to “on holiday 🌴” or similar](https://get.slack.help/hc/en-us/articles/201864558-Set-your-Slack-status-and-availability)
 
-### 🎅 Festive Season
+### Festive Season 🎅
 
 Many people take a few days off over Christmas. But not everyone is Christian or believes in Santa Claus
 and we don’t want to dictate how to use your holiday budget. The only mandatory holiday is half a day for
@@ -92,7 +92,7 @@ the 24th and half a day for the 31st. On all other days **between December 24th-
 
 Overall that means **you only have to take one day off** instead of four, as we used to do in earlier years.
 
-### 📈 Holiday vesting
+### Holiday vesting 📈
 
 The longer you stay at Brickblock, the more holidays you earn:
 
@@ -136,12 +136,12 @@ if necessary.
 
 ## When you’re sick 🤒
 
-### When you’re a little sick-ish
+### When you’re a little sick-ish 🤧
 
 When you’ve got a cold, but still want to work: Please don’t come into the office
 and infect your co-workers. Take it slow, have a tea, stay home and work remotely.
 
-### When you’re really, unpleasantly sick
+### When you’re really, unpleasantly sick 🤢
 
 Health comes first. Focus on getting better. Just be transparent about how long
 it might take so we can plan. As much as we'd like to do this purely on a trust
@@ -171,20 +171,20 @@ As a financial services provider, **security is extremely important** to us. We'
 handling millions of Dollars worth of transactions, so you need to act with
 utmost care when it comes to security.
 
-### Passwords
+### Passwords 🔑
 
 * Use 1Password to manage all Brickblock-related passwords — no exceptions.
 * ☝️ Don’t re-use a password. Always create a new one.
 * Use of 1password’s password generator for creating safe passwords.
 * Read the article ["It’s a Huge Mistake to Memorize Your Passwords"](https://onezero.medium.com/its-a-huge-mistake-to-memorize-your-passwords-2bdc1fdd64c2)
 
-### 2-Factor-Authentication
+### 2-Factor-Authentication 2️⃣
 
 * Use 2FA wherever possible, especially for your Google Account.
 * We recommend [Authy](https://authy.com) to manage your 2FA tokens. Just make sure to
    [disable the multi-device functionality](https://bitsonline.com/authy-coinbase-multi-device-2fa/).
 
-### Phishing Emails
+### Phishing Emails 🎣
 
 * Email is NOT a secure medium. Always apply a healthy dose of skepticism to
    all emails that are asking you for internal information
@@ -200,7 +200,7 @@ utmost care when it comes to security.
 
 Your personal and professional growth is very important to us!
 
-### One-on-Ones
+### One-on-Ones 👥
 
 You’ll have regular 30-60min one-on-one sessions with your manager to:
 
@@ -208,7 +208,7 @@ You’ll have regular 30-60min one-on-one sessions with your manager to:
 * Give bi-directional feedback (your manager to you, and you to your manager)
 * Discover and discuss opportunities for growth
 
-### Learning New Skills
+### Learning New Skills 🤓
 
 If you want to learn and grow your skill set, we'll support you in any way we can.
 So if there are any courses/classes/seminars you want to take,
@@ -221,7 +221,7 @@ In case of physical or digital goods, just get written approval (Slack or Email 
 from your manager and then send an Amazon link to the Finance Team. They'll order it for
 you.
 
-### Using Your Growth Budget
+### Using Your Growth Budget 💶
 
 If your contract includes an annual growth budget, here's how it works.
 
